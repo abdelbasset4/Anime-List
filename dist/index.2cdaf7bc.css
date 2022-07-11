@@ -1,0 +1,46 @@
+@font-face {
+  font-family: Open Sans;
+  src: url("OpenSans-Bold.f5fd4833.ttf"), url("OpenSans-Medium.3f0c4420.ttf"), url("OpenSans-Regular.8b749864.ttf"), url("OpenSans-SemiBold.7635020d.ttf");
+}
+
+body {
+  font-family: Open Sans !important;
+}
+
+header .main-picture {
+  width: 100%;
+  min-height: 80vh;
+  color: #fff;
+  background: url("Attack-on-Titan-Saison-4-bande-annonce-date-de-sortie-actualites.6e95a03f.jpg") 50% 10% / cover;
+}
+
+.w-c {
+  max-width: 600px;
+}
+
+select {
+  appearance: none;
+  background: url("icons8-chevron-down-30.bee58fbb.png") 90% / 20px 20px no-repeat;
+  padding-right: 50px;
+}
+
+option {
+  color: #fff;
+  background-color: #212529;
+  padding: 10px 0;
+  font-size: 16px;
+}
+
+.star {
+  width: 50px;
+  height: 50px;
+  color: #000;
+  background: url("icons8-star-48.1e21b700.png") center / 50px 50px;
+  place-items: center;
+  font-size: 14px;
+  display: grid;
+  top: -15px;
+  left: -5px;
+}
+
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
